@@ -79,4 +79,4 @@
 
 
 
-**[The Yukki Music](https://github.com/NotReallyShikhar/YukkiMusicBot) | [Not Realy Shikhar](https://github.com/ridho17-ind/SkyzoMusicBot)**
+**[The Yukki Music](https://github.com/fasifasila/YukkiMusicBot) | [Not Realy Shikhar](https://github.com/ridho17-ind/SkyzoMusicBot)**
